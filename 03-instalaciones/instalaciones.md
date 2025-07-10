@@ -6,3 +6,5 @@ yarn install
 # pasos extra
 
 npm install
+paso 1
+paso 2
